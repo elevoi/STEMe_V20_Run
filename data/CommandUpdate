@@ -4,7 +4,7 @@ git commit -m "Save file PNG"
 git push
 
 elevoi.git@gmail.com
-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
+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
 
 
 cd /home/pi/Desktop/STEMe_V20_Run
@@ -13,7 +13,7 @@ git commit -m "Save file PNG"
 git push
 
 elevoi.git@gmail.com
-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
+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
 
 
 nano /home/pi/.config/autostart/vee.desktop
