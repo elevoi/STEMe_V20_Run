@@ -1,0 +1,19 @@
+cd /home/pi/VEE/STEMe_V20_Source
+git add *
+git commit -m "Save file PNG"
+git push
+
+elevoi.git@gmail.com
+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
+
+
+cd /home/pi/Desktop/STEMe_V20_Run
+git add *
+git commit -m "Save file PNG"
+git push
+
+elevoi.git@gmail.com
+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
+
+
+nano /home/pi/.config/autostart/vee.desktop
